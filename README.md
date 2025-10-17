@@ -28,7 +28,7 @@
 如果遇到问题，可以使用"分析Excel文件结构"按钮来查看文件详细结构
 这个工具应该能够正确处理您提供的Excel格式的植物样方数据。如果仍有问题，请使用调试功能分析文件结构，这样我可以更准确地了解数据格式并提供进一步帮助。
 ### 表格输入示例
-
+示例表格已经过修改，无任何实质性内容。
 <img width="209" height="1065" alt="image" src="https://github.com/user-attachments/assets/86f8ee75-632f-4028-891d-2a802dc98c0c" />
 
 <img width="690" height="449" alt="image" src="https://github.com/user-attachments/assets/16541b5d-54dc-4f47-8898-e9aa3550beec" />
