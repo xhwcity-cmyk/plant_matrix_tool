@@ -36,7 +36,7 @@
 ![image](输出示例.png)
 
 ## 下载
-前往 [Releases](https://github.com/你的用户名/你的仓库/releases) 页面下载最新版本。
+前往 [Releases](https://github.com/xhwcity-cmyk/plant_matrix_tool/releases) 页面下载最新版本。
 
 ## 构建说明
 本项目使用 GitHub Actions 自动构建多平台版本。
