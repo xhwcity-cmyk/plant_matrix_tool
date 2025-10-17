@@ -33,7 +33,7 @@
 
 ### 输出示例
 
-![image](out.png)
+![image](输出示例.png)
 
 ## 下载
 前往 [Releases](https://github.com/你的用户名/你的仓库/releases) 页面下载最新版本。
