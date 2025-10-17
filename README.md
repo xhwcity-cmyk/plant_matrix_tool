@@ -29,9 +29,11 @@
 这个工具应该能够正确处理您提供的Excel格式的植物样方数据。如果仍有问题，请使用调试功能分析文件结构，这样我可以更准确地了解数据格式并提供进一步帮助。
 ### 表格输入示例
 示例表格已经过修改，无任何实质性内容。
-<img width="209" height="1065" alt="image" src="https://github.com/user-attachments/assets/86f8ee75-632f-4028-891d-2a802dc98c0c" />
+![image](in.png)
 
-<img width="690" height="449" alt="image" src="https://github.com/user-attachments/assets/16541b5d-54dc-4f47-8898-e9aa3550beec" />
+### 输出示例
+
+![image](out.png)
 
 ## 下载
 前往 [Releases](https://github.com/你的用户名/你的仓库/releases) 页面下载最新版本。
