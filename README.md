@@ -29,11 +29,11 @@
 这个工具应该能够正确处理您提供的Excel格式的植物样方数据。如果仍有问题，请使用调试功能分析文件结构，这样我可以更准确地了解数据格式并提供进一步帮助。
 ### 表格输入示例
 示例表格已经过修改，无任何实质性内容。
-![image](in.png)
+
 
 ### 输出示例
 
-![image](输出示例.png)
+
 
 ## 下载
 前往 [Releases](https://github.com/xhwcity-cmyk/plant_matrix_tool/releases) 页面下载最新版本。
